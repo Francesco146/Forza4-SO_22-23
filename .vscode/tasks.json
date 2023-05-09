@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        // task per compliare un file C con l'opzione -g -o a.out e nome del file
+        {
+            "label": "Compila",
+            "command": "make",
+            "args": [],
+            "type": "shell"
+        }
+    ]
+}

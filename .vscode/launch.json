@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "preLaunchTask": "Compila",
+            "name": "Debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Forza4",
+            //"args": ["-c", "8", "-r", "6", "-w", "4"],
+            //"args": ["*"],
+            "stopAtEntry": false,
+            "cwd": "/Users/francescomarastoni/Desktop/C.nosync/Forza4-SO_22-23/src/",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+        }
+    ]
+}
